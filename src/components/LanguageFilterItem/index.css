@@ -1,0 +1,21 @@
+.normal-btn {
+  color: #0f172a;
+  font-size: 20px;
+  font-family: roboto;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  width: 120px;
+  height: 60px;
+}
+
+.active-btn {
+  color: #0284c7;
+  font-size: 20px;
+  font-family: roboto;
+  border: 1px solid #0284c7;
+  background-color: #ffffff;
+  border-radius: 25px;
+  width: 120px;
+  height: 60px;
+}

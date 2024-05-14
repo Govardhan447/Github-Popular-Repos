@@ -1,0 +1,43 @@
+.bg-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  color: #0f172a;
+  font-family: Lobster;
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+}
+.language-btn-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  width: 700px;
+  height: 80px;
+  justify-content: space-between;
+  align-items: center;
+}
+.respositary-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.failure-img {
+  width: 70%;
+  height: 70%;
+}
+.error-heading {
+  color: #0f172a;
+  font-size: 80px;
+  font-family: Lobster;
+  font-weight: 700;
+}

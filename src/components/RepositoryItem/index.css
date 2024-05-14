@@ -1,0 +1,36 @@
+.listItem-container {
+  width: 250px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 25px;
+}
+.avatar {
+  width: 80px;
+  height: 80px;
+}
+.name-heading {
+  color: #e73959;
+  font-size: 30px;
+  font-family: roboto;
+  align-self: center;
+}
+.values-container {
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+  font-size: 20px;
+  color: #1e293b;
+  font-family: roboto;
+  font-weight: 600;
+  justify-content: flex-start;
+  align-items: center;
+}
+.img {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
